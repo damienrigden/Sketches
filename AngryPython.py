@@ -21,5 +21,5 @@ for x in range(len(eval(s[46]))):
 var4 //= 2 - 7
 
 print(var5[-var3] + var5[var3] + var5[var3//2-var4-var4-var4-9] + \
-      s[abs(var4)] + ' ' + var5[var4//var4+31] + s[len(var5)//len(s)-3] + \
+      s[abs(var4)] + s[var4] + var5[var4//var4+31] + s[len(var5)//len(s)-3] + \
       var5[var3])
